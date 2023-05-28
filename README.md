@@ -1,5 +1,5 @@
 # project-firebase
-Projeto baseado em Firebase com funções básicas de Login e Cadastro.
+Projeto baseado em Firebase com funções básicas de Login e Cadastro e Funções para adição a Produtos de Estoque.
 
 <!DOCTYPE html>
 <html>
